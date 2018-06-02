@@ -22,7 +22,7 @@ class Sample extends React.Component {
 }
 const PHOTO_SET = [
   {
-    src: './img/piter-js.png',
+    src: 'https://hostingkartinok.com/show-image.php?id=d66ad6142baf09303b72a02b9c0c1682',
     width: 1,
     height: 1
   },

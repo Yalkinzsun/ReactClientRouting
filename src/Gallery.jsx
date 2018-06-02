@@ -22,19 +22,19 @@ class Sample extends React.Component {
 }
 const PHOTO_SET = [
   {
-    src: '../img/piter-js.png',
+    src: './img/piter-js.png',
     width: 1,
     height: 1
   },
   
   {
-    src: '../img/piter-js.png',
+    src: './img/piter-js.png',
     width: 1,
     height: 1
   },
 
   {
-    src: '../img/piter-js.png',
+    src: './img/piter-js.png',
     width: 1,
     height: 1
   }

@@ -28,13 +28,13 @@ const PHOTO_SET = [
   },
   
   {
-    src: './img/piter-js.png',
+    src: 'https://s8.hostingkartinok.com/uploads/images/2018/06/d66ad6142baf09303b72a02b9c0c1682.png',
     width: 1,
     height: 1
   },
 
   {
-    src: './img/piter-js.png',
+    src: 'https://s8.hostingkartinok.com/uploads/images/2018/06/d66ad6142baf09303b72a02b9c0c1682.png',
     width: 1,
     height: 1
   }
